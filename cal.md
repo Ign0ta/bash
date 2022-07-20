@@ -4,4 +4,4 @@
 ---
 
 ### Command examples
-`~$ cal` - Shows the current month with the current day highlighted
+`~$ cal` - \t *Shows the current month with the current day highlighted*

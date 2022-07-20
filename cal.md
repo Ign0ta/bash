@@ -4,7 +4,4 @@
 ---
 
 ### Command examples
-```
-~$ cal
-```
-
+`~$ cal` - Shows the current month with the current day highlighted

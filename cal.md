@@ -1,0 +1,10 @@
+---
+# CAL
+
+---
+
+### Command examples
+```
+~$ cal
+```
+
